@@ -1,6 +1,6 @@
-# 📺 GitApp
+# 📺 Kombo
 
-ANUSIHLON is based on the idea that lab experiments can be taught using the internet, more efficiently and less expensively. The online lab is made for students with no access to physical labs or where equipment is not available owing to being rare or costly.
+Kombo is based on the idea that lab experiments can be taught using the internet, more efficiently and less expensively. The online lab is made for students with no access to physical labs or where equipment is not available owing to being rare or costly.
 
 
 
